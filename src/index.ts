@@ -6,4 +6,3 @@ console.log(hello("TypeScript"));
 
 const hoge:number = "fuga";
 const hoge1:number = "fuga";
-const hoge2:number = "fuga";
